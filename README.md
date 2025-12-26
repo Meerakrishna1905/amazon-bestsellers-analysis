@@ -25,6 +25,8 @@ Analyze Amazon bestselling books to uncover trends in ratings, reviews, pricing,
 - Price has weak correlation with ratings
 - Highly reviewed books are not always the highest rated
 - Bestseller count increased over years while ratings remained stable
+📓 **Open in Google Colab**  
+https://colab.research.google.com/github/Meerakrishna1905/amazon-bestsellers-analysis/blob/main/Amazon_Best_Sellers_Analysis(2).ipynb
 
 ## 📁 Files
 - `Amazon_Bestsellers_Data_Analysis.ipynb` – complete analysis notebook
